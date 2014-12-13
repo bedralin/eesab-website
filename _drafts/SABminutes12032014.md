@@ -107,14 +107,14 @@
         -   [ ] Contact Jody again prior to her arrival next week
     -   [ ] Submit short officer bios (optional: resume with no personal information included) on website
 -   New items
-    -   [ ] Kaleo to establish subcommittees for student fees purchases
-        -   [ ] Reflow oven
-        -   [ ] Power supplies/misc. electronics/soldering irons
-        -   [ ] Chairs
-        -   [ ] PCs
-    -   [ ] Trevor to write summary stipend article re: Dean Crouch letter
-        -   [ ] Publish pending SAB approval
-    -   [ ] Joseph Felix to scan Dean Crouch letter
+    -   [X] Kaleo to establish subcommittees for student fees purchases
+        -   [X] Reflow oven
+        -   [X] Power supplies/misc. electronics/soldering irons
+        -   [X] Chairs
+        -   [X] PCs
+    -   [X] Trevor to write summary stipend article re: Dean Crouch letter
+        -   [X] Publish pending SAB approval
+    -   [X] Joseph Felix to scan Dean Crouch letter
     -   [ ] Joseph Felix to research tutoring options
 
 # Meeting adjourned<a id="sec-8" name="sec-8"></a>
